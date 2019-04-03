@@ -153,12 +153,12 @@ ul li a:focus::before{
     border: 3px solid dodgerblue;
     padding-bottom: 150px;
 }
-                
+
 .img{
     float: left;
-    margin-top:10px; 
-    margin-left:150px; 
-    background-position: center;  
+    margin-top:10px;
+    margin-left:150px;
+    background-position: center;
 }
 h2{
     color:white;
@@ -170,12 +170,12 @@ h2{
     color: white;
 }
 .footer1, .footer2{
-    
+
     bottom: 10;
     left: 0;
     right: 0;
     border: 3px solid dodgerblue;
-    
+
 }
 table{
     margin-left: 50px;

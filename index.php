@@ -9,8 +9,9 @@
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript" type="text/javascript"></script>
             <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
             <title>projet-seul</title>
-      </head> 
+      </head>
              <body>
+
                    <ul>
                        <li><a href="#slider">home</a></li>
                        <li><a href="#">contact</a></li>
@@ -18,6 +19,7 @@
                        <li><a href="#galerie">Galerie</a></li>
                        <li><a href="#footer">Footer</a></li>
                    </ul>
+                 
                    <div class="pimg1">
 
 
@@ -25,36 +27,36 @@
 
 
 
-                    
+
                          <div id="slider">
                            <div class="slider">
                             <div class="slides">
                                 <div class="slide"><img src="images/1.png" height="800px" alt="" /> </div>
                                 <div class="slide"><img src="images/2.png" height="800px" alt="" /></div>
                                 <div class="slide"><img src="images/3.png" height="800px" alt="" /></div>
-                                
-                            </div> 
-                          </div> 
+
+                            </div>
+                          </div>
                         </div>
                     </div>
 
-                        
-                    
+
+
                         <section class="color">
                           <div class="animated fadeInLeft"><img class="img" src="images/1.png"  height="320px" width="320px" alt="1" />
-                          </div> 
+                          </div>
                                 <div class="animated rotateInDownRight"><h2> Section</h2>
                                 <p class="text">erhgozqsrejgahzgiorbskjfjknezlsfbjkbzhefczebkfbjezojfknbciezhbfnezfiboezanjfbio</p>
                                 </div>
                         </section>
                 <div id="img">
                 <div class="pimg2">
-                
-                
-                
-                
-                
-                
+
+
+
+
+
+
                 </div>
                 </div>
                     <div id="galerie">
@@ -156,13 +158,14 @@
                       <div class="footer2">
                           <img class="imgfooter" src="images/footer2.png" height="100px" width="100px" alt="" />
                           <p> copyright2019</p>
-                      </div>  
-                
+                      </div>
+
                     <script type="text/javascript" charset="utf-8">
                                   $(document).ready(function(){
                                       $("a[rel^='prettyPhoto']").prettyPhoto({social_tools:''});
                                   });
                     </script>
+
 
              </body>
 </html>
